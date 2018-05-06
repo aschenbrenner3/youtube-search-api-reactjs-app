@@ -16,4 +16,4 @@ Create an api key and replace the pseudo code in index.js for API_KEY with this 
 
 ## App Rendered in Browser
 
-![app-rendered-in-browser](https://github.com/aschenbrenner3/youtube-api-video-search/images/search-app-react "Video Search App Rendered in Browser")
+![app-rendered-in-browser](https://github.com/aschenbrenner3/youtube-api-video-search/images/search-app-react.png "Video Search App Rendered in Browser")

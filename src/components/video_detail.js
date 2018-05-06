@@ -1,16 +1,11 @@
 import React from 'react';
 
 const VideoDetail = ({video})=>{
-  //option to simplify with es6 = swap (props) with ({video}) - remove line after this 
-  //const video = props.video;
 
-  //add check
   if (!video) {
     return <div>Loading...</div>;
   }
 
-  //get access to embed url
-  //craft our our video url
   const videoId = video.id.videoId;
   const url = `https://www.youtube.com/embed/${videoId}`;
 

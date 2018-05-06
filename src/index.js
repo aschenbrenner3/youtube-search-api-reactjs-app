@@ -10,6 +10,7 @@ import _ from 'lodash';
 const API_KEY = '<insert YouTube api key here';
 
 class App extends Component {
+  constructor(props) {
     super(props);
 
     this.state = {
